@@ -1,0 +1,11 @@
+com\api\github_repos_api\GithubController.class
+com\api\github_repos_api\GithubService$GithubBranch.class
+com\api\github_repos_api\GithubService$GithubUserNotFoundException.class
+com\api\github_repos_api\GithubReposApiApplication.class
+com\api\github_repos_api\GithubService$GithubRepo$Owner.class
+com\api\github_repos_api\model\RepositoryResponse.class
+com\api\github_repos_api\GithubService$GithubRepo.class
+com\api\github_repos_api\GithubService.class
+com\api\github_repos_api\GithubService$GithubBranch$Commit.class
+com\api\github_repos_api\model\BranchResponse.class
+com\api\github_repos_api\model\ErrorResponse.class
